@@ -142,11 +142,11 @@ function InsertHTMLHereAdminPage()
       if ($i == $lnInsertHTMLHereOptionCount)
       {
          // The current value of the combo box is set to the value of the $lnInsertHTMLHereOptionCount
-         Print("<option value='" . $i . "' selected>" . $i . "</option");
+         Print("<option value='" . $i . "' selected>" . $i . "</option>");
       }
       else
       {
-         Print("<option value='" . $i . "'>" . $i . "</option");
+         Print("<option value='" . $i . "'>" . $i . "</option>");
       }
    }
 
