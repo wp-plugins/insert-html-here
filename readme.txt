@@ -4,7 +4,7 @@ Donate link: http://programphases.com
 Tags: HTML,ShortCode
 Requires at least: 2.6.3
 Tested up to: 2.6.3
-Stable tag: 1.0
+Stable tag: 1.1
 
 Allows one or more blocks of html code to be inserted into a Wordpress post or page.
 
